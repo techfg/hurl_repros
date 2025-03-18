@@ -1,0 +1,25 @@
+{
+    "data": [
+      {
+        "id": "0195a65d-bf42-7388-8a7e-1098e4f5af46",
+        "info": {
+          "firstname": "foo",
+          "lastname": "bar",
+          "username": "foobar"
+        }
+      },
+      {
+        "id": "0195a65d-bf42-738b-b909-65f92d46add9",
+        "info": {
+          "firstname": "bar",
+          "lastname": "foo",
+          "username": "barfoo"
+        }
+      },
+      {
+          "id": "0195a65d-bf42-7389-94c9-f598b75b1c22",
+          "info": null
+      }  
+    ]
+  }
+  
